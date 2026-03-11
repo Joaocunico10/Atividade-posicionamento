@@ -30,6 +30,7 @@ header > h1{
 nav{
     display: inline-block;
     background-color: rgb(68, 68, 67);
+    border: 3px solid green;
     color: white;
     position: absolute;
 
@@ -49,7 +50,7 @@ main{
     padding: 2px;
 
     background-color: rgba(206, 205, 205, 0.788);
-    border: 2px solid rgb(126, 125, 125);
+    border: 3px solid rgb(9, 127, 182);
     text-align: center;
 }
 
@@ -76,6 +77,7 @@ main p{
 .img-img{
     width: 60%;
     height: 60%;
+    border: 3px solid darkblue;
 }
 
 hr{
